@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-		Hello Eclipse ! 听哥的话。
+		Hello Eclipse ! 合作愉快。
 </body>
 </html>
